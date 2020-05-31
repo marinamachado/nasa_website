@@ -90,11 +90,11 @@
 
     //typed js
     $(".typed").typed({
-        strings: ["My Name is M.Reza", "I'm a Web Designer", "Love Simplicity"],
-        typeSpeed: 100,
-        backDelay: 900,
+        strings: ["This is all about using our own unique abilities to help people and the world we all live in."],
+        typeSpeed: 30,
+        backDelay: 2000,
         // loop
-        loop: true
+        loop: false
     });
 
     //owl carousel
